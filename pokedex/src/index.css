@@ -11,10 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.rock {
+.Rock {
   background-color: rgb(148, 81, 81);
 }
-.ghost {
+.Ghost {
   background-color: rgb(247, 247, 247);
 }
 .electric {
@@ -27,7 +27,7 @@ code {
   background-color: #e0a7f6;
 }
 .normal {
-  background-color: #F4F4F4;
+  background-color: #a4f5cc;
 }
 .fairy {
   background-color: rgba(255, 192, 203, 0.863);
@@ -81,7 +81,7 @@ h3 {
 .thumb-container .number {
   border-radius: 1rem;
   padding: 0.2rem 0.4rem;
-  background-color: rgba(255,255,255,0.3);
+  background-color: rgba(179, 179, 179, 0.575);
 }
 .thumb-container img {
   width: 120px;
